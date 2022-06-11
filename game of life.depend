@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1654540606 source:d:\dektop gui\codigos c++\game of life\main.cpp
+	<iostream>
+	<chrono>
+	<windows.h>
+
