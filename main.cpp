@@ -93,12 +93,6 @@ int main(){
         }
     }
 
-    for(int i = 0;i<tela_y;i++){
-        for(int j = 0;j<tela_x;j++){
-            //tela[i][j] = tela2[i][j];
-        }
-    }
-
     //renderizar
     string tela_buffer = "";
     gotoxy(0, 0);
